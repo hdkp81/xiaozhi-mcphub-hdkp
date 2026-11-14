@@ -88,7 +88,7 @@
     "gpt-tokenizer": "^3.4.0",
     "hono": "4.12.27",
     "i18next": "^25.5.0",
-    "i18next-fs-backend": "^2.6.0",
+    "i18next-fs-backend": "^2.6.11",
     "ipaddr.js": "^2.4.0",
     "js-yaml": "4.3.0",
     "jsonwebtoken": "^9.0.2",

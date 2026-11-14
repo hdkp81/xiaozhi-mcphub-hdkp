@@ -124,8 +124,8 @@ importers:
         specifier: ^25.5.0
         version: 25.6.0(typescript@5.9.3)
       i18next-fs-backend:
-        specifier: ^2.6.0
-        version: 2.6.6
+        specifier: ^2.6.11
+        version: 2.6.11
       ipaddr.js:
         specifier: ^2.4.0
         version: 2.4.0
@@ -3305,8 +3305,8 @@ packages:
   i18next-browser-languagedetector@8.2.1:
     resolution: {integrity: sha512-bZg8+4bdmaOiApD7N7BPT9W8MLZG+nPTOFlLiJiT8uzKXFjhxw4v2ierCXOwB5sFDMtuA5G4kgYZ0AznZxQ/cw==}
 
-  i18next-fs-backend@2.6.6:
-    resolution: {integrity: sha512-mYGu6Nt8RIp3X/U8Y+Gej1wo5xmYWmGKLqBGMCC2OCAou5rW5epeHgHmVcw20mJs9Z9+DAPHIxQPNCgFyPRMeg==}
+  i18next-fs-backend@2.6.11:
+    resolution: {integrity: sha512-UXVI3Dkx4NVECoSatK8w5Mq8k4VUPb4ZzYIyQ9kedy88SrUP/N6Bbeu5No7VC2rFOXD4oW/VqoYce5rkpUbrtQ==}
 
   i18next@25.6.0:
     resolution: {integrity: sha512-tTn8fLrwBYtnclpL5aPXK/tAYBLWVvoHM1zdfXoRNLcI+RvtMsoZRV98ePlaW3khHYKuNh/Q65W/+NVFUeIwVw==}
@@ -4450,8 +4450,8 @@ packages:
   react-is@18.3.1:
     resolution: {integrity: sha512-/LLMVyas0ljjAtoYiPqYiL8VWXzUUdThrmU5+n20DZv+a+ClRoevUzw5JxU+Ieh5/c87ytoTBV9G1FiKfNJdmg==}
 
-  react-is@19.2.8:
-    resolution: {integrity: sha512-s5un28nYxKJw5gvUHyW5PCC28CvBqLu9r3cWgzHT4Vo/5fqqkFcdRYsGcKf50WMPpjjFZS5d76fn3YCo2njKwQ==}
+  react-is@19.3.1:
+    resolution: {integrity: sha512-RRieF6IyxQBkcK6pP8xOHprLTPW6QjRkbGdImtqNme+/hYVwCZkLQLdlZGOhUqXwkS9IEynaGvPJtv6XB/cz0Q==}
 
   react-refresh@0.18.0:
     resolution: {integrity: sha512-QgT5//D3jfjJb6Gsjxv0Slpj23ip+HtOpnNgnb2S5zU3CB26G/IDPGoy4RJB42wzFE46DRsstbW6tKHoKbhAxw==}
@@ -8205,7 +8205,7 @@ snapshots:
     dependencies:
       '@babel/runtime': 7.29.7
 
-  i18next-fs-backend@2.6.6: {}
+  i18next-fs-backend@2.6.11: {}
 
   i18next@25.6.0(typescript@5.9.3):
     dependencies:
@@ -9385,7 +9385,7 @@ snapshots:
       '@jest/schemas': 30.4.1
       ansi-styles: 5.2.0
       react-is-18: react-is@18.3.1
-      react-is-19: react-is@19.2.8
+      react-is-19: react-is@19.3.1
 
   prompts@2.4.2:
     dependencies:
@@ -9469,7 +9469,7 @@ snapshots:
 
   react-is@18.3.1: {}
 
-  react-is@19.2.8: {}
+  react-is@19.3.1: {}
 
   react-refresh@0.18.0: {}
 
