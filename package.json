@@ -1,15 +1,16 @@
 {
-  "name": "@huangjunsen0406/xiaozhi-mcphub",
+  "name": "@hdkp81/xiaozhi-mcphub-hdkp",
   "version": "1.1.6",
-  "description": "MCPHub enhanced with Xiaozhi AI platform integration - \u4e3a\u5c0f\u667aAI\u5e73\u53f0\u4f18\u5316\u7684MCP\u5de5\u5177\u6865\u63a5\u7cfb\u7edf",
+  "description": "Personal version of xiaozhi-mcphub (forked from huangjunsen0406/xiaozhi-mcphub) - MCPHub integrated with the Xiaozhi AI platform",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/huangjunsen0406/xiaozhi-mcphub.git"
+    "url": "git+https://github.com/hdkp81/xiaozhi-mcphub-hdkp.git"
   },
-  "homepage": "https://huangjunsen0406.github.io/xiaozhi-mcphub/",
+  "homepage": "https://github.com/hdkp81/xiaozhi-mcphub-hdkp/",
   "bugs": {
-    "url": "https://github.com/huangjunsen0406/xiaozhi-mcphub/issues"
+    "url": "https://github.com/hdkp81/xiaozhi-mcphub-hdkp/issues"
   },
+  "author": "hdkp81",
   "main": "dist/index.js",
   "type": "module",
   "bin": {
